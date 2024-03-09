@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\envs",
+    "\\envs\\smac_v2",
+    "\\envs\\smac_v2\\official",
+    "\\envs\\smac_v2\\official\\maps",
+    "\\run"
+  ],
+  "SelectedNode": "\\envs\\smac_v2\\official\\maps\\smac_maps.py",
+  "PreviewInSolutionExplorer": false
+}

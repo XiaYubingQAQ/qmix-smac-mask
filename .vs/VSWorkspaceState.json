@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\envs",
+    "\\src\\envs\\smac_v2",
+    "\\src\\envs\\smac_v2\\official",
+    "\\src\\envs\\smac_v2\\official\\maps",
+    "\\src\\modules",
+    "\\src\\modules\\agents",
+    "\\src\\run",
+    "\\src\\runners"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}
