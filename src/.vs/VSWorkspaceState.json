@@ -5,8 +5,9 @@
     "\\envs\\smac_v2",
     "\\envs\\smac_v2\\official",
     "\\envs\\smac_v2\\official\\maps",
+    "\\envs\\smac_v2\\official\\maps\\SMAC_Maps",
     "\\run"
   ],
-  "SelectedNode": "\\envs\\smac_v2\\official\\maps\\smac_maps.py",
+  "SelectedNode": "\\envs\\smac_v2\\official\\starcraft2.py",
   "PreviewInSolutionExplorer": false
 }
